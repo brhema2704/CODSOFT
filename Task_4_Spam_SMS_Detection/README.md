@@ -41,11 +41,11 @@ Classification Models:
 
 ## 📊 Results & Insights
 
- Model                Accuracy  Precision (Spam)  Recall (Spam)  F1-Score (Spam) 
-
- Naive Bayes          0.98      0.95              0.97            0.96            
- Logistic Regression  0.98      0.96              0.95            0.95            
- SVM                  0.99      0.98              0.98            0.98            
+ Model                |Accuracy  Precision (Spam)  Recall (Spam)  F1-Score (Spam) 
+-----------------------------------------------------------------------------------
+ Naive Bayes          |0.98      0.95              0.97            0.96            
+ Logistic Regression  |0.98      0.96              0.95            0.95            
+ SVM                  |0.99      0.98              0.98            0.98            
 
 ### ✅ Insights:
 * **SVM performed the best** in all metrics, especially in minimizing false positives (ham predicted as spam).
